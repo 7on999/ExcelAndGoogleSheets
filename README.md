@@ -1,6 +1,6 @@
 # calculator_node
 
-use command npm start for running project
+use command **npm start** for running project
 
 <span> example of requst: /calculate?first_number=4&second_number=2&operation=multiplication </span>
 
