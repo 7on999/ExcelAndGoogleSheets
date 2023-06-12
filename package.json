@@ -1,12 +1,14 @@
 {
   "type": "module",
   "dependencies": {
-    "express": "^4.18.2"
+    "express": "^4.18.2",
+    "google-spreadsheet": "^3.3.0",
+    "googleapis": "^118.0.0",
+    "xlsx-populate": "^1.21.0"
   },
-  "name": "calculator",
+  "name": "Work with Excel and Google Sheets in node.js",
   "version": "1.0.0",
   "main": "app.js",
-  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node src/app.js"
